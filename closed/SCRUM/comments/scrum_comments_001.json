@@ -1,7 +1,13 @@
 [
   {
     "issue_key": "SCRUM-2",
-    "comments": []
+    "comments": [
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-14T16:20:46.692+0530",
+        "body": "revise comment status. "
+      }
+    ]
   },
   {
     "issue_key": "SCRUM-8",
