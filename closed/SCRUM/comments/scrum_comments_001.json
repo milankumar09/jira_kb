@@ -23,5 +23,15 @@
         "body": "Additional verification completed.\nVerified the device registration flow after ticket closure.\nNo functional issue was observed during re-validation.\nUpdating the ticket for testing the Jira to Git synchronization."
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-2",
+    "comments": [
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-14T16:20:46.692+0530",
+        "body": "revise comment status. "
+      }
+    ]
   }
 ]
