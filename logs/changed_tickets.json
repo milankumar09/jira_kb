@@ -1,8 +1,10 @@
 {
-  "execution_timestamp": "2026-07-14 16:21:44 IST",
+  "execution_timestamp": "2026-07-15 12:43:19 IST",
   "new_open": [],
   "new_closed": [],
   "updated_open": [],
-  "updated_closed": [],
+  "updated_closed": [
+    "SCRUM-8"
+  ],
   "moved_open_to_closed": []
 }
