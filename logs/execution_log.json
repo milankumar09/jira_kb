@@ -1,0 +1,20 @@
+[
+  {
+    "execution_timestamp": "2026-07-15 12:46:15 IST",
+    "projects": [
+      "SCRUM"
+    ],
+    "jql": "project IN (SCRUM) ORDER BY updated DESC",
+    "sync_mode": "full",
+    "processed": 7,
+    "new_open": 3,
+    "new_closed": 4,
+    "updated_open": 0,
+    "updated_closed": 0,
+    "moved_open_to_closed": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error_details": [],
+    "duration_seconds": 18.42
+  }
+]
