@@ -84,5 +84,23 @@
     "errors": 0,
     "error_details": [],
     "duration_seconds": 8.53
+  },
+  {
+    "execution_timestamp": "2026-07-15 12:43:29 IST",
+    "projects": [
+      "SCRUM"
+    ],
+    "jql": "project IN (SCRUM) AND updated >= \"2026-07-15 07:08\" ORDER BY updated DESC",
+    "sync_mode": "incremental",
+    "processed": 1,
+    "new_open": 0,
+    "new_closed": 0,
+    "updated_open": 0,
+    "updated_closed": 0,
+    "moved_open_to_closed": 0,
+    "skipped": 1,
+    "errors": 0,
+    "error_details": [],
+    "duration_seconds": 1.92
   }
 ]
