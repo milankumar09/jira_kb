@@ -61,5 +61,95 @@
     "comments_file": "scrum_comments_002.json",
     "attributes_file": "scrum_attributes_002.json",
     "updated": "2026-07-13T09:34:08.910000"
+  },
+  "SCRUM-10": {
+    "status_category": "open",
+    "chunk": 3,
+    "position": 0,
+    "description_file": "scrum_description_003.json",
+    "comments_file": "scrum_comments_003.json",
+    "attributes_file": "scrum_attributes_003.json",
+    "updated": "2026-07-16T08:32:59.482000"
+  },
+  "SCRUM-9": {
+    "status_category": "open",
+    "chunk": 3,
+    "position": 1,
+    "description_file": "scrum_description_003.json",
+    "comments_file": "scrum_comments_003.json",
+    "attributes_file": "scrum_attributes_003.json",
+    "updated": "2026-07-16T08:32:36.380000"
+  },
+  "SCRUM-11": {
+    "status_category": "open",
+    "chunk": 4,
+    "position": 0,
+    "description_file": "scrum_description_004.json",
+    "comments_file": "scrum_comments_004.json",
+    "attributes_file": "scrum_attributes_004.json",
+    "updated": "2026-07-16T08:34:12.972000"
+  },
+  "SCRUM-12": {
+    "status_category": "open",
+    "chunk": 4,
+    "position": 1,
+    "description_file": "scrum_description_004.json",
+    "comments_file": "scrum_comments_004.json",
+    "attributes_file": "scrum_attributes_004.json",
+    "updated": "2026-07-16T08:34:37.539000"
+  },
+  "SCRUM-13": {
+    "status_category": "open",
+    "chunk": 5,
+    "position": 0,
+    "description_file": "scrum_description_005.json",
+    "comments_file": "scrum_comments_005.json",
+    "attributes_file": "scrum_attributes_005.json",
+    "updated": "2026-07-16T08:35:09.879000"
+  },
+  "SCRUM-15": {
+    "status_category": "open",
+    "chunk": 5,
+    "position": 1,
+    "description_file": "scrum_description_005.json",
+    "comments_file": "scrum_comments_005.json",
+    "attributes_file": "scrum_attributes_005.json",
+    "updated": "2026-07-16T07:34:13.665000"
+  },
+  "SCRUM-14": {
+    "status_category": "open",
+    "chunk": 6,
+    "position": 0,
+    "description_file": "scrum_description_006.json",
+    "comments_file": "scrum_comments_006.json",
+    "attributes_file": "scrum_attributes_006.json",
+    "updated": "2026-07-16T07:33:43.696000"
+  },
+  "SCRUM-18": {
+    "status_category": "open",
+    "chunk": 6,
+    "position": 1,
+    "description_file": "scrum_description_006.json",
+    "comments_file": "scrum_comments_006.json",
+    "attributes_file": "scrum_attributes_006.json",
+    "updated": "2026-07-16T07:35:41.435000"
+  },
+  "SCRUM-17": {
+    "status_category": "open",
+    "chunk": 7,
+    "position": 0,
+    "description_file": "scrum_description_007.json",
+    "comments_file": "scrum_comments_007.json",
+    "attributes_file": "scrum_attributes_007.json",
+    "updated": "2026-07-16T07:35:14.360000"
+  },
+  "SCRUM-16": {
+    "status_category": "open",
+    "chunk": 7,
+    "position": 1,
+    "description_file": "scrum_description_007.json",
+    "comments_file": "scrum_comments_007.json",
+    "attributes_file": "scrum_attributes_007.json",
+    "updated": "2026-07-16T07:34:46.949000"
   }
 }
