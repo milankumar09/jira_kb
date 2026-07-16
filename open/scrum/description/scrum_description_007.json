@@ -3,5 +3,10 @@
     "issue_key": "SCRUM-17",
     "summary": "Jira incremental synchronization validation",
     "description": "Issue Summary:\nValidating incremental synchronization for Jira tickets.\nEnvironment:\nTest\nSteps:\nUpdate ticket.\nRun synchronization.\nExpected Result:\nOnly updated tickets should synchronize.\nActual Result:\nValidation in progress.\nPurpose:\nCreated for Jira workflow testing."
+  },
+  {
+    "issue_key": "SCRUM-16",
+    "summary": "Workflow execution validation for test project",
+    "description": "Issue Summary:\nWorkflow execution validation is being tested.\nEnvironment:\nTest\nSteps:\nExecute workflow.\nVerify execution status.\nExpected Result:\nWorkflow should complete successfully.\nActual Result:\nValidation in progress.\nPurpose:\nCreated for Jira workflow testing."
   }
 ]
