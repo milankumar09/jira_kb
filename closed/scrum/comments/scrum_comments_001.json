@@ -23,5 +23,15 @@
         "body": "Additional verification completed.\nVerified the device registration flow after ticket closure.\nNo functional issue was observed during re-validation.\nUpdating the ticket for testing the Jira to Git synchronization."
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-7",
+    "comments": [
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-13T16:41:45.637+0530",
+        "body": "Investigation completed.\nSupply event processing delay was caused by a temporary queue backlog. The queue was processed successfully and events are now received as expected.\nIssue verified and ready to close."
+      }
+    ]
   }
 ]
