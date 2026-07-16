@@ -13,5 +13,9 @@
         "body": "Investigation completed.\nManufacturing event was missing due to incomplete input data."
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-4",
+    "comments": []
   }
 ]
