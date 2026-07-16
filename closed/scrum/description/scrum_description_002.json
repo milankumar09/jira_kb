@@ -3,5 +3,10 @@
     "issue_key": "SCRUM-2",
     "summary": "Task 2",
     "description": ""
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "summary": "Device registration failed during onboarding validation",
+    "description": "Issue Summary:\nA test device failed during the registration process while validating the onboarding workflow.\nEnvironment:\nTest\nSteps:\nRegister a test device.\nMonitor onboarding status.\nExpected Result:\nDevice should complete registration successfully.\nActual Result:\nRegistration stopped during validation.\nPurpose:\nCreated for Jira workflow testing."
   }
 ]
