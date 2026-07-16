@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-14",
+    "summary": "Test device health status validation",
+    "description": "Issue Summary:\nDevice health status is not updating correctly.\nEnvironment:\nTest\nSteps:\nRefresh device health.\nVerify current status.\nExpected Result:\nHealth status should refresh successfully.\nActual Result:\nStatus remained unchanged.\nPurpose:\nCreated for Jira workflow testing."
+  }
+]
