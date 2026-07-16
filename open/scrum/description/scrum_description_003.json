@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-10",
+    "summary": "Telemetry event processing is delayed",
+    "description": "Issue Summary:\nTelemetry events are being processed later than expected.\nEnvironment:\nTest\nSteps:\nGenerate telemetry event.\nMonitor processing time.\nExpected Result:\nProcessing should complete within one minute.\nActual Result:\nProcessing completed after three minutes.\nPurpose:\nCreated for Jira workflow testing."
+  }
+]
