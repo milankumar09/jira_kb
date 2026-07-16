@@ -1,0 +1,17 @@
+[
+  {
+    "issue_key": "SCRUM-10",
+    "comments": [
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-16T13:07:30.721+0530",
+        "body": "Telemetry processing logs collected for investigation."
+      },
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-16T14:02:55.874+0530",
+        "body": "Delay identified and validation completed successfully."
+      }
+    ]
+  }
+]
