@@ -24,7 +24,7 @@
     "description_file": "scrum_description_001.json",
     "comments_file": "scrum_comments_001.json",
     "attributes_file": "scrum_attributes_001.json",
-    "updated": "2026-07-15T10:49:05.395000"
+    "updated": "2026-07-16T09:25:59.069000"
   },
   "SCRUM-2": {
     "status_category": "closed",
@@ -72,13 +72,13 @@
     "updated": "2026-07-16T08:32:59.482000"
   },
   "SCRUM-9": {
-    "status_category": "open",
-    "chunk": 3,
+    "status_category": "closed",
+    "chunk": 2,
     "position": 1,
-    "description_file": "scrum_description_003.json",
-    "comments_file": "scrum_comments_003.json",
-    "attributes_file": "scrum_attributes_003.json",
-    "updated": "2026-07-16T08:32:36.380000"
+    "description_file": "scrum_description_002.json",
+    "comments_file": "scrum_comments_002.json",
+    "attributes_file": "scrum_attributes_002.json",
+    "updated": "2026-07-16T09:25:22.728000"
   },
   "SCRUM-11": {
     "status_category": "open",
