@@ -1,0 +1,17 @@
+[
+  {
+    "issue_key": "SCRUM-14",
+    "attributes": {
+      "status": "To Do",
+      "priority": "Medium",
+      "issuetype": "Task",
+      "assignee": "Milan Kumar",
+      "reporter": "Milan Kumar",
+      "labels": [],
+      "components": [],
+      "created": "2026-07-16T13:03:43.184+0530",
+      "updated": "2026-07-16T13:03:43.696+0530"
+    },
+    "resolved_time": null
+  }
+]
