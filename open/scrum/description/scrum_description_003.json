@@ -3,5 +3,10 @@
     "issue_key": "SCRUM-10",
     "summary": "Telemetry event processing is delayed",
     "description": "Issue Summary:\nTelemetry events are being processed later than expected.\nEnvironment:\nTest\nSteps:\nGenerate telemetry event.\nMonitor processing time.\nExpected Result:\nProcessing should complete within one minute.\nActual Result:\nProcessing completed after three minutes.\nPurpose:\nCreated for Jira workflow testing."
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "summary": "Device registration failed during onboarding validation",
+    "description": "Issue Summary:\nA test device failed during the registration process while validating the onboarding workflow.\nEnvironment:\nTest\nSteps:\nRegister a test device.\nMonitor onboarding status.\nExpected Result:\nDevice should complete registration successfully.\nActual Result:\nRegistration stopped during validation.\nPurpose:\nCreated for Jira workflow testing."
   }
 ]
