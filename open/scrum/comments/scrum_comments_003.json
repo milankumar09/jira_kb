@@ -13,5 +13,20 @@
         "body": "Delay identified and validation completed successfully."
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "comments": [
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-16T13:06:50.811+0530",
+        "body": "Initial investigation started. Reviewing registration logs."
+      },
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-16T14:02:32.438+0530",
+        "body": "Validation completed. Root cause identified and fix verified."
+      }
+    ]
   }
 ]
