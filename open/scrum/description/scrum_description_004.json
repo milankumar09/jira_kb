@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-11",
+    "summary": "Comment synchronization validation for closed ticket",
+    "description": "Issue Summary:\nTesting synchronization of comments after ticket closure.\nEnvironment:\nTest\nSteps:\nCreate ticket.\nClose ticket.\nAdd additional comments.\nExpected Result:\nLatest comments should be synchronized.\nActual Result:\nTesting in progress.\nPurpose:\nCreated for Jira workflow testing."
+  }
+]
