@@ -13,5 +13,20 @@
       "updated": "2026-07-15T12:51:25.174+0530"
     },
     "resolved_time": "2026-07-14T07:41:47.024000"
+  },
+  {
+    "issue_key": "SCRUM-9",
+    "attributes": {
+      "status": "Done",
+      "priority": "Medium",
+      "issuetype": "Task",
+      "assignee": "Milan Kumar",
+      "reporter": "Milan Kumar",
+      "labels": [],
+      "components": [],
+      "created": "2026-07-16T12:59:36.918+0530",
+      "updated": "2026-07-16T14:55:22.728+0530"
+    },
+    "resolved_time": "2026-07-16T09:25:22.711000"
   }
 ]
