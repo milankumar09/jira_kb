@@ -13,5 +13,20 @@
       "updated": "2026-07-16T14:04:12.972+0530"
     },
     "resolved_time": null
+  },
+  {
+    "issue_key": "SCRUM-12",
+    "attributes": {
+      "status": "In Review",
+      "priority": "Medium",
+      "issuetype": "Task",
+      "assignee": "Milan Kumar",
+      "reporter": "Milan Kumar",
+      "labels": [],
+      "components": [],
+      "created": "2026-07-16T13:01:48.801+0530",
+      "updated": "2026-07-16T14:04:37.539+0530"
+    },
+    "resolved_time": null
   }
 ]
