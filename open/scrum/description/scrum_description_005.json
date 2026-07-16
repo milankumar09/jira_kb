@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-13",
+    "summary": "Firmware version mapping verification",
+    "description": "Issue Summary:\nFirmware version mapping requires verification.\nEnvironment:\nTest\nSteps:\nSubmit firmware information.\nVerify mapping.\nExpected Result:\nCorrect firmware mapping.\nActual Result:\nIncorrect mapping detected.\nPurpose:\nCreated for Jira workflow testing."
+  }
+]
