@@ -13,5 +13,20 @@
         "body": "Latest comment verified successfully."
       }
     ]
+  },
+  {
+    "issue_key": "SCRUM-12",
+    "comments": [
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-16T13:09:28.872+0530",
+        "body": "Validation process initiated."
+      },
+      {
+        "author": "Milan Kumar",
+        "created": "2026-07-16T14:04:33.077+0530",
+        "body": "Required corrections applied successfully."
+      }
+    ]
   }
 ]
