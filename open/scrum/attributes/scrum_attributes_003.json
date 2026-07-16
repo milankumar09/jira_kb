@@ -1,0 +1,17 @@
+[
+  {
+    "issue_key": "SCRUM-10",
+    "attributes": {
+      "status": "In Review",
+      "priority": "High",
+      "issuetype": "Task",
+      "assignee": "Milan Kumar",
+      "reporter": "Milan Kumar",
+      "labels": [],
+      "components": [],
+      "created": "2026-07-16T13:00:25.664+0530",
+      "updated": "2026-07-16T14:02:59.482+0530"
+    },
+    "resolved_time": null
+  }
+]
