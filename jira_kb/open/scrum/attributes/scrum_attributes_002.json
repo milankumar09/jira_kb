@@ -1,0 +1,17 @@
+[
+  {
+    "issue_key": "SCRUM-3",
+    "attributes": {
+      "status": "In Progress",
+      "priority": null,
+      "issuetype": "Task",
+      "assignee": null,
+      "reporter": "Milan Kumar",
+      "labels": [],
+      "components": [],
+      "created": "2026-07-13T15:04:05.082+0530",
+      "updated": "2026-07-13T15:04:06.647+0530"
+    },
+    "resolved_time": null
+  }
+]
