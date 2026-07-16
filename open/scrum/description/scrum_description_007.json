@@ -1,0 +1,7 @@
+[
+  {
+    "issue_key": "SCRUM-17",
+    "summary": "Jira incremental synchronization validation",
+    "description": "Issue Summary:\nValidating incremental synchronization for Jira tickets.\nEnvironment:\nTest\nSteps:\nUpdate ticket.\nRun synchronization.\nExpected Result:\nOnly updated tickets should synchronize.\nActual Result:\nValidation in progress.\nPurpose:\nCreated for Jira workflow testing."
+  }
+]
