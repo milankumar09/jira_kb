@@ -3,5 +3,10 @@
     "issue_key": "SCRUM-14",
     "summary": "Test device health status validation",
     "description": "Issue Summary:\nDevice health status is not updating correctly.\nEnvironment:\nTest\nSteps:\nRefresh device health.\nVerify current status.\nExpected Result:\nHealth status should refresh successfully.\nActual Result:\nStatus remained unchanged.\nPurpose:\nCreated for Jira workflow testing."
+  },
+  {
+    "issue_key": "SCRUM-18",
+    "summary": "Git repository export validation",
+    "description": "Issue Summary:\nTesting export of Jira ticket data into the Git repository.\nEnvironment:\nTest\nSteps:\nExecute export.\nVerify generated files.\nExpected Result:\nTicket information should be exported successfully.\nActual Result:\nValidation in progress.\nPurpose:\nCreated for Jira workflow testing."
   }
 ]
